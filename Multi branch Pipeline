@@ -1,1 +1,85 @@
-<mxfile host="app.diagrams.net" modified="2022-06-26T17:47:35.002Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.0.0 Safari/537.36" version="20.0.3" etag="WoUrsVNZzZ0dY_Op3gDq" type="github"><diagram id="EWiKQ9B8IKUFZiyJTugg">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2022-06-26T18:30:27.867Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.0.0 Safari/537.36" etag="iMNVf0D4TcKKRXap1Equ" version="20.0.3" type="github">
+  <diagram id="EWiKQ9B8IKUFZiyJTugg" name="Page-1">
+    <mxGraphModel dx="782" dy="402" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="YD6w3QZGqnGSelt73q_y-1" value="Features Pipeline" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="30" y="340" width="380" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="YD6w3QZGqnGSelt73q_y-2" value="Dev local&amp;nbsp;" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="40" y="510" width="70" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="YD6w3QZGqnGSelt73q_y-4" value="Developer1" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="40" y="570" width="30" height="60" as="geometry" />
+        </mxCell>
+        <object label="&lt;b&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;Commit &amp;amp; Push&lt;br&gt;&lt;br&gt;&lt;/b&gt;" id="YD6w3QZGqnGSelt73q_y-5">
+          <mxCell style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.arrow;dy=0.6;dx=40;direction=north;notch=0;fillColor=#FFCCE6;" vertex="1" parent="1">
+            <mxGeometry x="40" y="400" width="30" height="100" as="geometry" />
+          </mxCell>
+        </object>
+        <mxCell id="YD6w3QZGqnGSelt73q_y-8" value="Dev local&amp;nbsp;" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="290" y="515" width="70" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="YD6w3QZGqnGSelt73q_y-9" value="Developer 2&lt;br&gt;" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="290" y="570" width="30" height="60" as="geometry" />
+        </mxCell>
+        <object label="&lt;b&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;Commit &amp;amp; Push&lt;br&gt;&lt;br&gt;&lt;/b&gt;" id="YD6w3QZGqnGSelt73q_y-10">
+          <mxCell style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.arrow;dy=0.6;dx=40;direction=north;notch=0;fillColor=#FFCCE6;" vertex="1" parent="1">
+            <mxGeometry x="290" y="400" width="30" height="110" as="geometry" />
+          </mxCell>
+        </object>
+        <mxCell id="YD6w3QZGqnGSelt73q_y-13" value="Pull Request" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.arrow;dy=0;dx=30;notch=17;fillColor=#FFCCE6;rotation=-90;" vertex="1" parent="1">
+          <mxGeometry x="307.5" y="427.5" width="115" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="YD6w3QZGqnGSelt73q_y-14" value="Pull Request" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.arrow;dy=0;dx=30;notch=17;fillColor=#FFCCE6;rotation=-90;" vertex="1" parent="1">
+          <mxGeometry x="80" y="425" width="115" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="YD6w3QZGqnGSelt73q_y-15" value="Master Pipeline&lt;br&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="30" y="240" width="670" height="60" as="geometry" />
+        </mxCell>
+        <object label="&lt;b&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;Merge&lt;br&gt;&lt;br&gt;&lt;/b&gt;" id="YD6w3QZGqnGSelt73q_y-16">
+          <mxCell style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.arrow;dy=0.6;dx=40;direction=north;notch=0;fillColor=#FFCCE6;" vertex="1" parent="1">
+            <mxGeometry x="320" y="280" width="30" height="70" as="geometry" />
+          </mxCell>
+        </object>
+        <object label="&lt;b&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;Merge&lt;br&gt;&lt;br&gt;&lt;/b&gt;" id="YD6w3QZGqnGSelt73q_y-17">
+          <mxCell style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.arrow;dy=0.6;dx=40;direction=north;notch=0;fillColor=#FFCCE6;" vertex="1" parent="1">
+            <mxGeometry x="50" y="280" width="30" height="70" as="geometry" />
+          </mxCell>
+        </object>
+        <mxCell id="YD6w3QZGqnGSelt73q_y-18" value="Teams OBO" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;fillColor=#FFCCE6;" vertex="1" parent="1">
+          <mxGeometry x="550" y="350" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="YD6w3QZGqnGSelt73q_y-22" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.766;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.311;entryY=-0.078;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="YD6w3QZGqnGSelt73q_y-15" target="YD6w3QZGqnGSelt73q_y-18">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="530" y="350" as="sourcePoint" />
+            <mxPoint x="580" y="300" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="YD6w3QZGqnGSelt73q_y-23" value="Teams OBO" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;fillColor=#FFCCE6;" vertex="1" parent="1">
+          <mxGeometry x="570" y="390" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="YD6w3QZGqnGSelt73q_y-24" value="Teams OBO" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;fillColor=#FFCCE6;" vertex="1" parent="1">
+          <mxGeometry x="590" y="427.5" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="YD6w3QZGqnGSelt73q_y-25" value="HotFix Pipeline" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="110" y="50" width="380" height="60" as="geometry" />
+        </mxCell>
+        <object label="&lt;b&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;Merge&lt;br&gt;&lt;br&gt;&lt;/b&gt;" id="YD6w3QZGqnGSelt73q_y-26">
+          <mxCell style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.arrow;dy=0.6;dx=40;direction=north;notch=0;fillColor=#FFCCE6;rotation=-180;" vertex="1" parent="1">
+            <mxGeometry x="360" y="100" width="30" height="70" as="geometry" />
+          </mxCell>
+        </object>
+        <mxCell id="YD6w3QZGqnGSelt73q_y-29" value="MainLine Pipeline&amp;nbsp;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="30" y="160" width="670" height="60" as="geometry" />
+        </mxCell>
+        <object label="&lt;b&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;Merge&lt;br&gt;&lt;br&gt;&lt;/b&gt;" id="YD6w3QZGqnGSelt73q_y-30">
+          <mxCell style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.arrow;dy=0.6;dx=40;direction=north;notch=0;fillColor=#FFCCE6;" vertex="1" parent="1">
+            <mxGeometry x="425" y="200" width="30" height="70" as="geometry" />
+          </mxCell>
+        </object>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
