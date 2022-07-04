@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-07-04T17:44:45.010Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.0.0 Safari/537.36" etag="UHwSp5r_s5YDuPQtHjc3" version="20.0.4" type="github">
+<mxfile host="app.diagrams.net" modified="2022-07-04T17:47:33.712Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.0.0 Safari/537.36" etag="1vfO7oA8n6w5aTl50SYd" version="20.0.4" type="github">
   <diagram id="EWiKQ9B8IKUFZiyJTugg" name="Page-1">
     <mxGraphModel dx="1662" dy="762" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -133,10 +133,30 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="rlGeKOt6nVYzzOWXnmT6-7" value="&lt;span style=&quot;color: rgb(0, 0, 0); font-family: Helvetica; font-size: 12px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; letter-spacing: normal; orphans: 2; text-align: center; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: rgb(248, 249, 250); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; float: none; display: inline !important;&quot;&gt;&lt;b&gt;MainLine Pipeline&lt;/b&gt;&lt;/span&gt;&lt;span style=&quot;color: rgb(0, 0, 0); font-family: Helvetica; font-size: 12px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; letter-spacing: normal; orphans: 2; text-align: center; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: rgb(248, 249, 250); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; float: none; display: inline !important;&quot;&gt;&amp;nbsp; - holds the official release of each service&lt;br&gt;&lt;b&gt;Teams OBO&lt;/b&gt;&lt;/span&gt;&lt;span style=&quot;color: rgb(0, 0, 0); font-family: Helvetica; font-size: 12px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: center; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: rgb(248, 249, 250); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; float: none; display: inline !important;&quot;&gt; - environment that fetch the team owned images (snapshot) from Master and other images from Mainline&lt;br&gt;&lt;/span&gt;" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="60" y="20" width="690" height="90" as="geometry" />
+          <mxGeometry x="30" y="1000" width="690" height="90" as="geometry" />
         </mxCell>
         <mxCell id="rlGeKOt6nVYzzOWXnmT6-8" value="when fixing a defect in previous release" style="whiteSpace=wrap;html=1;shape=mxgraph.basic.roundRectCallout;dx=30;dy=15;size=5;boundedLbl=1;fillColor=#DAE8FC;" vertex="1" parent="1">
           <mxGeometry x="435" y="368" width="100" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="rlGeKOt6nVYzzOWXnmT6-9" value="Release/X.Y" style="rounded=1;whiteSpace=wrap;html=1;rotation=-45;fillColor=#DAE8FC;" vertex="1" parent="1">
+          <mxGeometry x="109.99999999999997" y="63.67000000000001" width="70" height="42.32" as="geometry" />
+        </mxCell>
+        <mxCell id="rlGeKOt6nVYzzOWXnmT6-10" value="" style="endArrow=classic;html=1;rounded=0;startArrow=none;entryX=0;entryY=0.25;entryDx=0;entryDy=0;exitX=0.113;exitY=-0.033;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="YD6w3QZGqnGSelt73q_y-29" target="rlGeKOt6nVYzzOWXnmT6-9">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="365.2234544844807" y="206.88597980142242" as="sourcePoint" />
+            <mxPoint x="400" y="180" as="targetPoint" />
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="rlGeKOt6nVYzzOWXnmT6-11" value="Release/X.Z" style="rounded=1;whiteSpace=wrap;html=1;rotation=-45;fillColor=#DAE8FC;" vertex="1" parent="1">
+          <mxGeometry x="192.14" y="63.67000000000001" width="70" height="42.32" as="geometry" />
+        </mxCell>
+        <mxCell id="rlGeKOt6nVYzzOWXnmT6-12" value="" style="endArrow=classic;html=1;rounded=0;startArrow=none;entryX=0;entryY=0.25;entryDx=0;entryDy=0;exitX=0.113;exitY=-0.033;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" target="rlGeKOt6nVYzzOWXnmT6-11">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="177.85000000000002" y="114.00999999999998" as="sourcePoint" />
+            <mxPoint x="472.14" y="175.99" as="targetPoint" />
+            <Array as="points" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
