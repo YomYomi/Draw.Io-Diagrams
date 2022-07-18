@@ -1,11 +1,11 @@
-<mxfile host="app.diagrams.net" modified="2022-07-04T17:50:48.955Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.0.0 Safari/537.36" etag="GkTcwmITrPrl7hE41h1t" version="20.0.4" type="github">
+<mxfile host="app.diagrams.net" modified="2022-07-18T13:30:38.526Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36" etag="uWUJnVv64dk3Ojw5E6kw" version="20.0.4" type="github">
   <diagram id="EWiKQ9B8IKUFZiyJTugg" name="Page-1">
     <mxGraphModel dx="1662" dy="762" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="b7RxKwBc3UQpxbooKgY1-6" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FF66B3;align=left;" parent="1" vertex="1">
-          <mxGeometry x="260" y="660" width="560" height="270" as="geometry" />
+          <mxGeometry x="260" y="660" width="550" height="270" as="geometry" />
         </mxCell>
         <mxCell id="YD6w3QZGqnGSelt73q_y-1" value="Features Pipeline" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
           <mxGeometry x="30" y="340" width="380" height="60" as="geometry" />
@@ -42,12 +42,12 @@
           <mxGeometry x="30" y="240" width="670" height="60" as="geometry" />
         </mxCell>
         <object label="&lt;b&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;Merge&lt;br&gt;&lt;br&gt;&lt;/b&gt;" id="YD6w3QZGqnGSelt73q_y-16">
-          <mxCell style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.arrow;dy=0.6;dx=40;direction=north;notch=0;fillColor=#FFCCE6;" parent="1" vertex="1">
+          <mxCell style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.arrow;dy=0.6;dx=40;direction=north;notch=0;fillColor=#B266FF;" parent="1" vertex="1">
             <mxGeometry x="320" y="280" width="30" height="70" as="geometry" />
           </mxCell>
         </object>
         <object label="&lt;b&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;Merge&lt;br&gt;&lt;br&gt;&lt;/b&gt;" id="YD6w3QZGqnGSelt73q_y-17">
-          <mxCell style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.arrow;dy=0.6;dx=40;direction=north;notch=0;fillColor=#FFCCE6;" parent="1" vertex="1">
+          <mxCell style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.arrow;dy=0.6;dx=40;direction=north;notch=0;fillColor=#B266FF;" parent="1" vertex="1">
             <mxGeometry x="50" y="280" width="30" height="70" as="geometry" />
           </mxCell>
         </object>
@@ -70,7 +70,7 @@
           <mxGeometry x="509.59000000000003" y="840" width="270" height="60" as="geometry" />
         </mxCell>
         <mxCell id="YD6w3QZGqnGSelt73q_y-29" value="MainLine Pipeline&amp;nbsp;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
-          <mxGeometry x="30" y="120" width="670" height="60" as="geometry" />
+          <mxGeometry x="30" y="110" width="790" height="60" as="geometry" />
         </mxCell>
         <mxCell id="b7RxKwBc3UQpxbooKgY1-1" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.311;entryY=-0.078;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="YD6w3QZGqnGSelt73q_y-29" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -84,9 +84,9 @@
         <mxCell id="b7RxKwBc3UQpxbooKgY1-2" value="Releases Pipeline&amp;nbsp;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
           <mxGeometry x="280" y="740" width="330" height="60" as="geometry" />
         </mxCell>
-        <object label="&lt;b&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;Merge&lt;br&gt;&lt;br&gt;&lt;/b&gt;" id="b7RxKwBc3UQpxbooKgY1-3">
-          <mxCell style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.arrow;dy=0.6;dx=40;direction=north;notch=0;fillColor=#FF66B3;rotation=-195;" parent="1" vertex="1">
-            <mxGeometry x="434.59" y="382.81" width="75" height="370" as="geometry" />
+        <object label="&lt;b&gt;Merge&lt;br&gt;&lt;/b&gt;" id="b7RxKwBc3UQpxbooKgY1-3">
+          <mxCell style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.arrow;dy=0.6;dx=40;direction=north;notch=0;fillColor=#9933FF;rotation=-195;" parent="1" vertex="1">
+            <mxGeometry x="434.85" y="384.8" width="59.59" height="370" as="geometry" />
           </mxCell>
         </object>
         <mxCell id="b7RxKwBc3UQpxbooKgY1-4" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.75;exitY=1;exitDx=0;exitDy=0;" parent="1" source="b7RxKwBc3UQpxbooKgY1-2" target="YD6w3QZGqnGSelt73q_y-25" edge="1">
@@ -97,7 +97,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="b7RxKwBc3UQpxbooKgY1-9" value="All other images" style="whiteSpace=wrap;html=1;shape=mxgraph.basic.roundRectCallout;dx=30;dy=15;size=5;boundedLbl=1;fillColor=#FFFFFF;" parent="1" vertex="1">
-          <mxGeometry x="700" y="200" width="100" height="60" as="geometry" />
+          <mxGeometry x="640" y="166.79" width="100" height="60" as="geometry" />
         </mxCell>
         <mxCell id="b7RxKwBc3UQpxbooKgY1-10" value="Team owned images" style="whiteSpace=wrap;html=1;shape=mxgraph.basic.roundRectCallout;dx=30;dy=15;size=5;boundedLbl=1;fillColor=#FFFFFF;" parent="1" vertex="1">
           <mxGeometry x="560" y="270" width="100" height="60" as="geometry" />
@@ -114,7 +114,7 @@
             <mxPoint x="230" y="510" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="rlGeKOt6nVYzzOWXnmT6-4" value="" style="endArrow=classic;html=1;rounded=0;startArrow=none;" edge="1" parent="1" source="rlGeKOt6nVYzzOWXnmT6-5">
+        <mxCell id="rlGeKOt6nVYzzOWXnmT6-4" value="" style="endArrow=classic;html=1;rounded=0;startArrow=none;" parent="1" source="EWmPfvFlSAguq5c0eIbI-1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="350" y="260" as="sourcePoint" />
             <mxPoint x="390" y="170" as="targetPoint" />
@@ -123,41 +123,58 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="rlGeKOt6nVYzzOWXnmT6-5" value="Team release pipeline" style="rounded=1;whiteSpace=wrap;html=1;rotation=-45;fillColor=#DAE8FC;" vertex="1" parent="1">
-          <mxGeometry x="286.46" y="191.46" width="70" height="42.32" as="geometry" />
+        <mxCell id="rlGeKOt6nVYzzOWXnmT6-5" value="Team release pipeline" style="rounded=1;whiteSpace=wrap;html=1;rotation=-45;fillColor=#DAE8FC;" parent="1" vertex="1">
+          <mxGeometry x="270" y="200" width="70" height="42.32" as="geometry" />
         </mxCell>
-        <mxCell id="rlGeKOt6nVYzzOWXnmT6-6" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1" target="rlGeKOt6nVYzzOWXnmT6-5">
+        <mxCell id="rlGeKOt6nVYzzOWXnmT6-6" value="" style="endArrow=none;html=1;rounded=0;" parent="1" target="rlGeKOt6nVYzzOWXnmT6-5" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="350" y="260" as="sourcePoint" />
             <mxPoint x="400" y="210" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="rlGeKOt6nVYzzOWXnmT6-7" value="&lt;span style=&quot;color: rgb(0, 0, 0); font-family: Helvetica; font-size: 12px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; letter-spacing: normal; orphans: 2; text-align: center; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: rgb(248, 249, 250); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; float: none; display: inline !important;&quot;&gt;&lt;b&gt;MainLine Pipeline&lt;/b&gt;&lt;/span&gt;&lt;span style=&quot;color: rgb(0, 0, 0); font-family: Helvetica; font-size: 12px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; letter-spacing: normal; orphans: 2; text-align: center; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: rgb(248, 249, 250); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; float: none; display: inline !important;&quot;&gt;&amp;nbsp; - holds the official release of each service&lt;br&gt;&lt;b&gt;Teams OBO&lt;/b&gt;&lt;/span&gt;&lt;span style=&quot;color: rgb(0, 0, 0); font-family: Helvetica; font-size: 12px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: center; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: rgb(248, 249, 250); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; float: none; display: inline !important;&quot;&gt; - environment that fetch the team owned images (snapshot) from Master and other images from Mainline&lt;br&gt;&lt;/span&gt;" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="rlGeKOt6nVYzzOWXnmT6-7" value="&lt;span style=&quot;color: rgb(0, 0, 0); font-family: Helvetica; font-size: 12px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; letter-spacing: normal; orphans: 2; text-align: center; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: rgb(248, 249, 250); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; float: none; display: inline !important;&quot;&gt;&lt;b&gt;MainLine Pipeline&lt;/b&gt;&lt;/span&gt;&lt;span style=&quot;color: rgb(0, 0, 0); font-family: Helvetica; font-size: 12px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; letter-spacing: normal; orphans: 2; text-align: center; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: rgb(248, 249, 250); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; float: none; display: inline !important;&quot;&gt;&amp;nbsp; - holds the official release of each service&lt;br&gt;&lt;b&gt;Teams OBO&lt;/b&gt;&lt;/span&gt;&lt;span style=&quot;color: rgb(0, 0, 0); font-family: Helvetica; font-size: 12px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: center; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: rgb(248, 249, 250); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; float: none; display: inline !important;&quot;&gt; - environment that fetch the team owned images (snapshot) from Master and other images from Mainline&lt;br&gt;&lt;/span&gt;" style="text;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="30" y="1000" width="690" height="90" as="geometry" />
         </mxCell>
-        <mxCell id="rlGeKOt6nVYzzOWXnmT6-8" value="when fixing a defect in previous release" style="whiteSpace=wrap;html=1;shape=mxgraph.basic.roundRectCallout;dx=30;dy=15;size=5;boundedLbl=1;fillColor=#DAE8FC;" vertex="1" parent="1">
+        <mxCell id="rlGeKOt6nVYzzOWXnmT6-8" value="when fixing a defect in previous release" style="whiteSpace=wrap;html=1;shape=mxgraph.basic.roundRectCallout;dx=30;dy=15;size=5;boundedLbl=1;fillColor=#DAE8FC;" parent="1" vertex="1">
           <mxGeometry x="435" y="368" width="100" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="rlGeKOt6nVYzzOWXnmT6-9" value="Release/X.Y" style="rounded=1;whiteSpace=wrap;html=1;rotation=-45;fillColor=#DAE8FC;" vertex="1" parent="1">
+        <mxCell id="rlGeKOt6nVYzzOWXnmT6-9" value="Release/X.Y" style="rounded=1;whiteSpace=wrap;html=1;rotation=-45;fillColor=#DAE8FC;" parent="1" vertex="1">
           <mxGeometry x="120" y="50" width="70" height="42.32" as="geometry" />
         </mxCell>
-        <mxCell id="rlGeKOt6nVYzzOWXnmT6-10" value="" style="endArrow=classic;html=1;rounded=0;startArrow=none;entryX=0;entryY=0.25;entryDx=0;entryDy=0;exitX=0.113;exitY=-0.033;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="YD6w3QZGqnGSelt73q_y-29" target="rlGeKOt6nVYzzOWXnmT6-9">
+        <mxCell id="rlGeKOt6nVYzzOWXnmT6-10" value="" style="endArrow=classic;html=1;rounded=0;startArrow=none;entryX=0;entryY=0.25;entryDx=0;entryDy=0;exitX=0.113;exitY=-0.033;exitDx=0;exitDy=0;exitPerimeter=0;" parent="1" source="YD6w3QZGqnGSelt73q_y-29" target="rlGeKOt6nVYzzOWXnmT6-9" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="365.2234544844807" y="206.88597980142242" as="sourcePoint" />
             <mxPoint x="400" y="180" as="targetPoint" />
             <Array as="points" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="rlGeKOt6nVYzzOWXnmT6-11" value="Release/X.Z" style="rounded=1;whiteSpace=wrap;html=1;rotation=-45;fillColor=#DAE8FC;" vertex="1" parent="1">
+        <mxCell id="rlGeKOt6nVYzzOWXnmT6-11" value="Release/X.Z" style="rounded=1;whiteSpace=wrap;html=1;rotation=-45;fillColor=#DAE8FC;" parent="1" vertex="1">
           <mxGeometry x="192.14" y="60.00000000000001" width="70" height="42.32" as="geometry" />
         </mxCell>
-        <mxCell id="rlGeKOt6nVYzzOWXnmT6-12" value="" style="endArrow=classic;html=1;rounded=0;startArrow=none;entryX=0;entryY=0.25;entryDx=0;entryDy=0;exitX=0.218;exitY=0;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" target="rlGeKOt6nVYzzOWXnmT6-11" source="YD6w3QZGqnGSelt73q_y-29">
+        <mxCell id="rlGeKOt6nVYzzOWXnmT6-12" value="" style="endArrow=classic;html=1;rounded=0;startArrow=none;entryX=0;entryY=0.25;entryDx=0;entryDy=0;exitX=0.218;exitY=0;exitDx=0;exitDy=0;exitPerimeter=0;" parent="1" source="YD6w3QZGqnGSelt73q_y-29" target="rlGeKOt6nVYzzOWXnmT6-11" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="177.85000000000002" y="114.00999999999998" as="sourcePoint" />
             <mxPoint x="472.14" y="175.99" as="targetPoint" />
             <Array as="points" />
           </mxGeometry>
         </mxCell>
+        <object label="&lt;b&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;Merge&lt;br&gt;&lt;br&gt;&lt;/b&gt;" id="EWmPfvFlSAguq5c0eIbI-1">
+          <mxCell style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.arrow;dy=0.6;dx=40;direction=north;notch=0;fillColor=#B266FF;rotation=40;" vertex="1" parent="1">
+            <mxGeometry x="351.17" y="136.79" width="30" height="90" as="geometry" />
+          </mxCell>
+        </object>
+        <mxCell id="EWmPfvFlSAguq5c0eIbI-2" value="" style="endArrow=none;html=1;rounded=0;startArrow=none;" edge="1" parent="1" source="rlGeKOt6nVYzzOWXnmT6-5" target="EWmPfvFlSAguq5c0eIbI-1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="355.2234544844807" y="196.88597980142242" as="sourcePoint" />
+            <mxPoint x="390" y="170" as="targetPoint" />
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <object label="&lt;b&gt;Merge&lt;br&gt;&lt;/b&gt;" id="EWmPfvFlSAguq5c0eIbI-3">
+          <mxCell style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.arrow;dy=0.6;dx=40;direction=east;notch=0;fillColor=#B266FF;rotation=-90;" vertex="1" parent="1">
+            <mxGeometry x="436.12" y="466.38" width="670" height="92.5" as="geometry" />
+          </mxCell>
+        </object>
       </root>
     </mxGraphModel>
   </diagram>
